@@ -13,6 +13,4 @@ void main() {
   for (String planeta in planetas) { // For-in loop
     print(planeta);
   }
-
-
 }
